@@ -15,7 +15,7 @@ public class Demo1 {
 	private static WebDriverWait wait;
 
 	public Demo1() {
-		// TODO Auto-generated constructor stub 1
+		// TODO Auto-generated constructor stub
 	}
 	
 	public static void main(String[] args) {
